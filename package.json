@@ -1,0 +1,21 @@
+{
+  "name": "anysize-cms",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-plugin-syntax-async-functions": "^6.3.13",
+    "babel-plugin-transform-async-to-generator": "^6.4.6",
+    "express": "^4.13.4"
+
+  },
+  "author": "Natan Rubinstein <natanr123@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.7"
+  }
+}

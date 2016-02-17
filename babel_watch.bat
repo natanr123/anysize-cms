@@ -1,0 +1,1 @@
+call .\node_modules\.bin\babel --watch ./src --out-dir ./lib
